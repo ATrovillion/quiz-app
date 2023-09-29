@@ -9,8 +9,23 @@ export default {
             title: 'Question',
         },
         {
-            name: 'answer',
-            title: 'Answer',
+            name: 'answer1',
+            title: 'Answer1',
+            type: 'string',
+        },
+        {
+            name: 'answer2',
+            title: 'Answer2',
+            type: 'string',
+        },
+        {
+            name: 'answer3',
+            title: 'Answer3',
+            type: 'string',
+        },
+        {
+            name: 'answer4',
+            title: 'Answer4',
             type: 'string',
         },
         {
